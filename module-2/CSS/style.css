@@ -1,0 +1,38 @@
+#menu{
+    position: relative;
+    margin-top: 5%;
+}
+.c{
+    border: 1px solid black;
+    width: 30%;
+    padding: 16px;
+    margin-left: 2.5%;
+    box-sizing: border-box;
+    float: left;
+    height: 40%;
+}
+.b{
+    border: 1px solid black;
+    width: 30%;
+    padding: 16px;
+    box-sizing: border-box;
+    margin-left: 2.5%;
+    float: right;
+    height: 40%;
+}
+.s{
+    border: 1px solid black;
+    width: 30%;
+    padding: 16px;
+    box-sizing: border-box;
+    margin-left: 2.5%;
+    float: right;
+    height: 40%;
+}
+.title{
+    border: 1px solid black;
+    box-sizing: border-box;
+    float: right;
+    width: 30%;
+    text-align: center;
+}
